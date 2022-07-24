@@ -1,30 +1,29 @@
 ## Tanguy Le Loch
 
-I'm Tanguy from france living in Paris. I'm currently a backend developper at [triPica](https://www.tripica.com/). I code professionally in java 17 but when it comes to personal project, I code in JS.
+I'm a backend developer. I'm starting to work as a freelancer. I'm looking for missions localized in Paris, I can also work remotely. I describe myself as a Java and NodeJs developer which are my favorite languages, however I can also do some fullstack developement with React as frontend tool.
+
+I know a lot about Rest API and microservices architecture.
 
 ---
 
-The stack I know about sorted in descending order: 
+The stack I know about sorted in descending order:
+
 1. Java / Spring / Hibernate
-2. Nodejs / Nestjs / Express
+2. Nodejs / Express / MongoDB / Nestjs / TypeScript
 3. Reactjs
 4. Vuejs
 
 ---
 
-I plan to become a freelancer in Thailand 🗺
+### ⚡ Stats (because stats are cool)
 
-<!--
-**TanguyLeLoch/tanguyleloch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;>
+    <div style=">
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=tanguyleloch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=tanguyleloch&show_icons=true&include_all_commits=true&count_private=true)
+
+</div>
