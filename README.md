@@ -6,7 +6,7 @@ I'm Tanguy from france living in Paris. I'm currently a backend developper at [t
 
 The stack I know about sorted in descending order: 
 1. Java / Spring / Hibernate
-2. Nodejs / Express
+2. Nodejs / Nestjs / Express
 3. Reactjs
 4. Vuejs
 
