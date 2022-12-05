@@ -1,6 +1,6 @@
 ## Tanguy Le Loch
 
-I'm a backend developer. I'm starting to work as a freelancer. I'm looking for missions localized in Paris, I can also work remotely. I describe myself as a Java and NodeJs developer which are my favorite languages, however I can also do some fullstack developement with React as frontend tool.
+I'm a backend developer. I'm starting to work as a freelancer. I'm looking for remote missions. I am a Java and NodeJs developer which are my favorite languages, however I can also do some fullstack developement with React as frontend tool.
 
 I know a lot about Rest API and microservices architecture.
 
@@ -8,7 +8,7 @@ I know a lot about Rest API and microservices architecture.
 
 The stack I know about sorted in descending order:
 
-1. Java / Spring / Hibernate
+1. Java / Spring
 2. Nodejs / Express / MongoDB / Nestjs / TypeScript
 3. Reactjs
 4. Vuejs
