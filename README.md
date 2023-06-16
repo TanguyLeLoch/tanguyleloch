@@ -1,17 +1,18 @@
 ## Tanguy Le Loch
 
-I'm a backend developer. I'm starting to work as a freelancer. I'm looking for remote missions. I am a Java and NodeJs developer which are my favorite languages, however I can also do some fullstack developement with React as frontend tool.
+I'm a software developer. I'm looking for a position in Bangkok. I am a Java and NodeJs developer which are my favorite languages, however I can also do some fullstack developement with React or Angular as frontend tool.
 
 I know a lot about Rest API and microservices architecture.
 
 ---
 
-The stack I know about sorted in descending order:
+The tools I am familiar with
 
-1. Java / Spring
-2. Nodejs / Express / MongoDB / Nestjs / TypeScript
-3. Reactjs
-4. Vuejs
+Java / J2EE / Spring framework / Hibernate / JPA / Maven / Oracle database / PostgresSQL / MongoDB / OpenAPI / Rest doc / GraalVM / JMS / MQ / hexagonal architecture / Event-Driven Architecture / MVC / MVP Microservices / OOP / Automation testing / Selenium / NodeJS / NestJs
+
+JS / TS / Jest / Angular / React / etherJS / web3js / Html / Css
+
+Scrum / SAFe / Kanban / Eclipse / IntelliJ / Git / Svn / CI/CD / Jenkins / Docker / AWS / Kubernetes / Github / Bitbucket / Jira / Confluence / JSON / XML / REST API / AJAX / TDD / BDD / DDD / SOLID principle / clean code / trunk based development / gitflow / Monorepo / design patterns
 
 ---
 
