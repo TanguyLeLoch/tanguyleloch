@@ -1,6 +1,6 @@
 ## Tanguy Le Loch
 
-I'm a software developer. I'm looking for a position in Bangkok. I am a Java and NodeJs developer which are my favorite languages, however I can also do some fullstack developement with React or Angular as frontend tool.
+I'm a software developer for over 3 years. I am a Java and NodeJs developer which are my favorite languages, however I can also do some fullstack developement with React or Angular as frontend tool.
 
 I know a lot about Rest API and microservices architecture.
 
@@ -22,9 +22,5 @@ Scrum / SAFe / Kanban / Eclipse / IntelliJ / Git / Svn / CI/CD / Jenkins / Docke
     <div style=">
 
 ![](https://komarev.com/ghpvc/?username=tanguyleloch)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=tanguyleloch&show_icons=true&include_all_commits=true&count_private=true)
 
 </div>
